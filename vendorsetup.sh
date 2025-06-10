@@ -1,4 +1,4 @@
-git clone https://github.com/albatron34000/RM6785_device-mediatek-sepolicy_vndr device/mediatek/sepolicy_vndr
+git clone https://github.com/albatron34000/Mediatek_sepolicy device/mediatek/sepolicy_vndr
 git clone https://github.com/albatron34000/RM6785_vendor_RM6785-common vendor/RM6785-common
 git clone https://github.com/albatron34000/RM6785_hardware_oplus hardware/oplus
 git clone https://github.com/albatron34000/RM6785_hardware_mediatek hardware/mediatek
