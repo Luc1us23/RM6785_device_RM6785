@@ -1,0 +1,17 @@
+# Dex2oat
+dalvik.vm.dex2oat64.enabled=true
+
+# IMS
+persist.dbg.volte_avail_ovr=1
+
+# Example Defintions
+ro.infinity.soc=MTK G95
+ro.infinity.battery=5000 mAh
+ro.infinity.display=1080 x 2400, 80 Hz
+ro.infinity.camera=64MP
+# Example Defintion
+ro.product.marketname=Realme RM6785
+
+# Charger
+ro.charger.enable_suspend=true
+persist.vendor.quick.charge=1

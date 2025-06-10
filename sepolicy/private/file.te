@@ -1,0 +1,4 @@
+type proc_gpufreq, fs_type, proc_type;
+
+
+
