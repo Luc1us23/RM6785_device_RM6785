@@ -18,9 +18,9 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 
 # Lunch banner maintainer variable
-RISING_MAINTAINER="Gofaraway71"
+RISING_MAINTAINER="YoshiKira"
 
-RISING_MAINTAINER := Gofaraway71
+RISING_MAINTAINER := YoshiKira
 
 
 TARGET_DEFAULT_PIXEL_LAUNCHER := true 
@@ -54,7 +54,7 @@ TARGET_BUILD_VIMUSIC := true
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Lunch banner maintainer variable
-RISING_MAINTAINER="Gofaraway71"
+RISING_MAINTAINER="YoshiKira"
 
 
 # GMS
